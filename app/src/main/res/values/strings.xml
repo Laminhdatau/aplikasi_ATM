@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">aplikasi_ATM</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+
+    <string name="buku_tulis">    Kondisi: Baru
+    Berat Satuan: 2 kg
+    Kategori: Buku Tulis Sekolah
+    Etalase: BUKU
+
+Deskripsi BUKU TULIS CAMPUS BIG BOSS 50 LBR / BUKU TULIS BOXY (PER 10 PCS)
+
+*Tipe: Buku Tulis Boxy Big Boss
+
+*Ukuran: Boxy ( Panjang) 18 x25 cm
+
+*Isi: 50 lembar
+
+*Merek: Big Boss
+
+*Dijual Dalam: 1 pack ( 10 buku)
+
+*Harga diatas merupakan harga 1 pack ( 10 buku)</string>
+</resources>
